@@ -1,0 +1,8 @@
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.csproj.AssemblyReference.cache
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.csproj.CoreCompileInputs.cache
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\bin\Debug\Semana01_c#.exe.config
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\bin\Debug\Semana01_c#.exe
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\bin\Debug\Semana01_c#.pdb
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.exe
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.pdb
+C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.exe.config
