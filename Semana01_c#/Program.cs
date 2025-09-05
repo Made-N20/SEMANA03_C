@@ -10,14 +10,14 @@ namespace Semana01_c_
     {
         static void Main(string[] args)
         {
-            ejer2();
+            ejer3();
             Console.ReadKey(); // Realizando detenimiento de comsola
 
         }
 
         static void ejer1()
         {
-            String nombre, carrera; 
+            String nombre, carrera;
 
             Console.Write("INGRESE SU NOMBRE:");
             nombre = Console.ReadLine();
@@ -33,5 +33,23 @@ namespace Semana01_c_
         {
             Console.WriteLine("\"Madeleine\"");
         }
+   
+        static void ejer3()
+        {
+
+            Console.Write("INGRESE X:");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.Write("ingrese y:");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            int sum = x + y;
+            double divi = (double)x / (double)y;
+
+            Console.WriteLine("\nSUMA:" + sum);
+            Console.WriteLine("RESTA:" + (x - y));
+            Console.WriteLine("MULTIPLICACION:" + (x * y));
+            Console.WriteLine("DIVISION:" + (x / y));
+        }
     }
-}
+}    

@@ -8,4 +8,13 @@ def ejer1():
 def ejer2():
     print("\"Madeleine\"")
 
-ejer2()
+def ejer3():
+    X= int(input("INGRESE X:"))
+    Y= int(input("INGRESE Y:"))
+
+    print("SUMA:",(X+Y))
+    print("RESTA:",(X-Y))
+    print("MULTIPLICACION:",(X*Y))
+    print("DIVISION:",(X/Y))
+
+ejer3()
