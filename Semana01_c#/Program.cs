@@ -10,7 +10,7 @@ namespace Semana01_c_
     {
         static void Main(string[] args)
         {
-            ejer1();
+            ejer2();
             Console.ReadKey(); // Realizando detenimiento de comsola
 
         }
@@ -29,5 +29,9 @@ namespace Semana01_c_
 
         }
 
+        static void ejer2()
+        {
+            Console.WriteLine("\"Madeleine\"");
+        }
     }
 }

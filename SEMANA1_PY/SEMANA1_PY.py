@@ -5,4 +5,7 @@ def ejer1():
 
     print(f"\n TU NOMBRE ES {NOMBRE} BIENVENIDO(A) A TU PRIMERA CLASE DE {CARRERA}")
 
-ejer1()
+def ejer2():
+    print("\"Madeleine\"")
+
+ejer2()
