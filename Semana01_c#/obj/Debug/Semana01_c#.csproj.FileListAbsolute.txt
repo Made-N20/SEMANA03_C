@@ -6,3 +6,11 @@ C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\bin\Debug\Semana01_c#.pdb
 C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.exe
 C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.pdb
 C:\SEMANA03_MADE\Semana01_c#\Semana01_c#\obj\Debug\Semana01_c#.exe.config
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\bin\Debug\Semana01_c#.exe.config
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\bin\Debug\Semana01_c#.exe
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\bin\Debug\Semana01_c#.pdb
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\obj\Debug\Semana01_c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\obj\Debug\Semana01_c#.exe.config
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\obj\Debug\Semana01_c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\obj\Debug\Semana01_c#.exe
+C:\Users\UPN\Desktop\PROYECTO_MADE\SEMANA03_C\Semana01_c#\obj\Debug\Semana01_c#.pdb
